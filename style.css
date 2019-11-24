@@ -1,0 +1,86 @@
+body {
+	margin: auto auto;
+	background-image: url("https://images.unsplash.com/photo-1490818387583-1baba5e638af?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60")
+}
+
+#container {
+  height: 443px;
+  width: 499px;
+  margin: 100px auto;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+}
+
+h2 {
+	text-align: center;
+	padding: 30px;
+	font-family: 'Alata', sans-serif;
+	font-size: 35px;
+	color: #fff0f0;
+}
+
+div{
+	background-color: #882525;
+}
+
+form {
+	    text-align: center;
+}
+
+input {
+	width: 200px;
+    height: 30px;
+    font-size: 19px;
+
+}
+
+footer {
+	width: 100%;
+    background-color: #471f1f;
+    height: 25px;
+    position: fixed;
+    text-align: center;
+    font-family: 'Ruluko', sans-serif;
+    padding-top: 9px;
+    font-size: 19px;
+    color: rosybrown;
+    bottom: 0px;
+}
+
+
+#BMI {
+	padding: 30px;
+	font-family: 'Alata', sans-serif;
+    font-size: 30px;
+    color: khaki;
+    border-radius: 25px;
+}
+
+#explanation {
+	color: antiquewhite;
+    font-size: 50px;
+}
+
+#more-info {
+	font-size: 18px;
+}
+
+#button {
+	height: 50px;
+    width: 135px;
+    font-size: 20px;
+    font-family: 'Alata', sans-serif;
+    background-color: darksalmon;
+    border-radius: 13px;
+    
+}
+
+.deskripsi {
+	font-size: 21px;
+	font-family: 'Quicksand', sans-serif;
+	color: #fff0f0;
+}
+
+
